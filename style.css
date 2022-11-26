@@ -38,11 +38,11 @@ img {
   text-align: center;
 }
 
-h2 {
+h1 {
   padding: 2% 8%;
   font-family: "Outfit", sans-serif;
   font-weight: 700;
-  font-size: large;
+  font-size: small;
 }
 
 p {
